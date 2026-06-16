@@ -1,0 +1,11 @@
+[package]
+name = "selfish"
+version = "0.1.0"
+authors = ["Nile Jocson <novoseiria@gmail.com>"]
+edition = "2024"
+
+readme = "README.md"
+repository = "https://github.com/novoseiria/selfish"
+license = "MPL-2.0"
+
+[dependencies]
